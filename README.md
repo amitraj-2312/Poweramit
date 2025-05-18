@@ -1,4 +1,4 @@
-PowerAmit
+##PowerAmit
 PowerAmit is an AI-powered tool that enables businesses to interact with their datasets using natural language. Instead of writing complex queries or code, simply ask questions like "What were the sales in Q1 2024?" or "Show me top-performing products by region"—and PowerAmit delivers instant, actionable insights.
 
 🔗 Live Demo
